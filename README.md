@@ -39,5 +39,15 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 19.https://www.phind.com/ Shows An Image And Answers For The Question Very Good For Educational Purpose.
 
-20.
+20.https://pi.ai/talk One Of The Simplest AI That Can Provide Insight On Hacking
+
+21.https://iask.ai/ Can Have Specific Filters To Get The Most Information
+
+22.https://komo.ai/ Gives A Very Detailed Description And Even Tips And Step By Step Instructions
+
+23.https://koala.sh/chat Very Simple To Use And Very Easy GUI
+
+24.https://www.wolframalpha.com/ Can Show Everything About A Word Or A Math Equation
+
+25.
 
