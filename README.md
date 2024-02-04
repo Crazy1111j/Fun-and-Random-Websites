@@ -17,5 +17,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 8.https://www.zoomeye.org/searchResult?q=Camera Chinese Version Of Shodan/Alternative To Shodan
 
-9.
+9.https://search.carrot2.org/#/search/web/OSINT/pie-chart One of the best Tools for finding hacking info
+
+10.
 
