@@ -5,5 +5,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 2.https://github.com/AdrMXR/KitHack  One Of The Best Hacking ToolKits
 
-3.
+3.https://github.com/screetsec/TheFatRat One Of The Simplest And Most Advanced Rats
+
+4.
 
