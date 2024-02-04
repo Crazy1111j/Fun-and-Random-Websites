@@ -23,5 +23,21 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 11.http://www.insecam.org/ Shows Cameras All Over The World
 
-12.
+12.https://metaosint.github.io/chart Tons Of OSINT Tools With Bubble UI
+
+13.https://intelx.io/tools Every Aspect Of OSINT Including A Lazy UI
+
+14.https://osintframework.com/ One Of The Best OSINT Frameworks
+
+15.https://inteltechniques.com/tools/index.html One Of The Most Advanced OSINT Frameworks
+
+16.https://www.shodan.io/ The First Search Engine Of The Internet.
+
+17.https://www.waldo.fyi/ A OSINT Ai Tool To Make Projects
+
+18.https://gptcall.net/ A Ai Tool That Can Use Different Characters
+
+19.https://www.phind.com/ Shows An Image And Answers For The Question Very Good For Educational Purpose.
+
+20.
 
