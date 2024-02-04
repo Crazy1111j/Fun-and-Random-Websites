@@ -13,5 +13,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 6.https://github.com/3xploitGuy/lazyaircrack One of The Best Wifi Hacking Tools 
 
-7.
+7.https://github.com/americo/sqlifinder Find Vulnerabilities In a Website
+
+8.
 
