@@ -11,5 +11,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 5.https://github.com/Hyperclaw79/HULK-v3 One Of The Best DDOS Tools
 
-6.
+6.https://github.com/3xploitGuy/lazyaircrack One of The Best Wifi Hacking Tools 
+
+7.
 
