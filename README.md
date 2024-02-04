@@ -19,5 +19,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 9.https://search.carrot2.org/#/search/web/OSINT/pie-chart One of the best Tools for finding hacking info
 
-10.
+10.https://www.hackergpt.co/ Chat GPT for hackers
+
+11
 
