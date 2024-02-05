@@ -155,5 +155,7 @@ My Top Favorite Tools
 
 80.https://www.szynalski.com/tone-generator/ Tone Generator That Can Make Ears Hurt Very BAAD
 
-81.
+81.https://downdetector.com/ Shows If A Certain Comapny Network Is Down
+
+82.
 
