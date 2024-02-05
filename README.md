@@ -141,3 +141,7 @@ My Top Favorite Tools
 
 72.https://www.caffeineinformer.com/death-by-caffeine Calculates Caffine Intake By Drink And Weight
 
+73.https://www.blackbox.ai/chat/expert-python Ai For Code
+
+74.
+
