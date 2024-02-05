@@ -77,5 +77,7 @@ My Top Favorite Tools
 
 38.https://goblin.tools/ Can break down tasks with Ai to do them faster
 
-39.
+39.https://moviewiser.com/ Uses Ai To Select A Good Movie For You
+
+40.
 
