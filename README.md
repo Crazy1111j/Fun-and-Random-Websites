@@ -131,5 +131,7 @@ My Top Favorite Tools
 
 65.https://outrider.org/nuclear-weapons/interactive/bomb-blast Very Advanced Nuclear Bomb Simulation
 
-66.
+66.https://www.window-swap.com/Window Watch Random Windows In The World And Swap Anytime
+
+67.
 
