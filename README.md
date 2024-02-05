@@ -129,5 +129,7 @@ My Top Favorite Tools
 
 64.https://www.thetruesize.com/ Shows The True Size Of Coutries Compared To Other Ones
 
-65.
+65.https://outrider.org/nuclear-weapons/interactive/bomb-blast Very Advanced Nuclear Bomb Simulation
+
+66.
 
