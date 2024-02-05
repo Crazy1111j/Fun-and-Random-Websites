@@ -87,5 +87,7 @@ My Top Favorite Tools
 
 43.https://www.geo-fs.com/ Lets You Fly In A Plane SIM
 
-44.
+44.https://gamma.app/ Makes presentation With Ai:Sign In Through Phone Account
+
+45.
 
