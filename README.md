@@ -141,5 +141,7 @@ My Top Favorite Tools
 
 73.https://www.blackbox.ai/chat/expert-python Ai For Code
 
-74.
+74.https://www.omnicalculator.com/ Shows Every Type Of Calculator
+
+75.
 
