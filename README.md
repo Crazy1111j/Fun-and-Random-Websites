@@ -65,5 +65,7 @@ My Top Favorite Tools
 
 32.https://boredhumans.com/https://boredhumans.com/ Has 100 AI Tools
 
-33.
+33.https://copilot.microsoft.com/ Lets you use Chat-GPT-4 Without Signing In
+
+34.
 
