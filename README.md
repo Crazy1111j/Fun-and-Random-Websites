@@ -61,5 +61,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 30.https://www.familywatchdog.us/ Shows All Sex Offenders In Your Area
 
-31.
+31.https://fakedetail.com/ Can Generate Fake Messages And Emails
+
+32.
 
