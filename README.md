@@ -125,5 +125,7 @@ My Top Favorite Tools
 
 62.https://ufostalker.com/ Shows All UFO Sighting All Over The Area And Gives Description
 
-63.
+63.https://2050.earth/ Shows How The Earth Would Be In 2050 In Multiple Cities
+
+64.
 
