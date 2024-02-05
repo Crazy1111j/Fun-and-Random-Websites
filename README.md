@@ -57,5 +57,7 @@ My Top Favorite Tools
 
 28.https://plagiarism-remover.com/humanize-ai-text/ Humanfies Ai Text And Removes Plagerism
 
-29.
+29.https://mcbroken.com/ Shows Every Ice Cream Machine In McDonalds Thats Broken
+
+30.
 
