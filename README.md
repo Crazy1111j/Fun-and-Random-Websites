@@ -1,37 +1,7 @@
 # Favorite-Unblocked-Tools
-My Top Favorite Tools From DDOS Attack To OSINT Tools
-
-1.https://app.netlas.io/host/ Shows As Much Info From A IP Address And Even Shows The Numbers And Emails Connected To It. HACKING
-
-2.https://github.com/AdrMXR/KitHack  One Of The Best Hacking ToolKits. HACKING
-
-3.https://github.com/screetsec/TheFatRat One Of The Simplest And Most Advanced Rats. HACKING
-
-4.https://github.com/4lbH4cker/ALHacking Has Lots Of Diverse Hacking Tools. HACKING
-
-5.https://github.com/Hyperclaw79/HULK-v3 One Of The Best DDOS Tools. HACKING
-
-6.https://github.com/3xploitGuy/lazyaircrack One of The Best Wifi Hacking Tools. HACKING
-
-7.https://github.com/americo/sqlifinder Find Vulnerabilities In a Website. HACKING
-
-8.https://www.zoomeye.org/searchResult?q=Camera Chinese Version Of Shodan/Alternative To Shodan. HACKING
+My Top Favorite Tools 
 
 9.https://search.carrot2.org/#/search/web/OSINT/pie-chart One of the best Tools for finding hacking info
-
-10.https://www.hackergpt.co/ Chat GPT for hackers. HACKING
-
-11.http://www.insecam.org/ Shows Cameras All Over The World. HACKING
-
-12.https://metaosint.github.io/chart Tons Of OSINT Tools With Bubble UI. HACKING
-
-13.https://intelx.io/tools Every Aspect Of OSINT Including A Lazy UI. HACKING
-
-14.https://osintframework.com/ One Of The Best OSINT Frameworks. HACKING
-
-15.https://inteltechniques.com/tools/index.html One Of The Most Advanced OSINT Frameworks. HACKING
-
-16.https://www.shodan.io/ The First Search Engine Of The Internet. HACKING
 
 17.https://www.waldo.fyi/ A OSINT Ai Tool To Make Projects
 
