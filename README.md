@@ -51,5 +51,7 @@ My Top Favorite Tools
 
 25.https://tome.app/ai Can Use AI To Make Presentation:PC
 
-26.
+26.https://www.wolframalpha.com/ Can Solve Any Math Languge Or Cultural Problem With AI
+
+27.
 
