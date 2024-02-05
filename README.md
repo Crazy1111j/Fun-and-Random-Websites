@@ -99,5 +99,7 @@ My Top Favorite Tools
 
 49.https://niturobert.github.io/gmailkit/ Able To bypass Administrator In Order To Use Reddit In Email Format In Order To Search Up SubReddit Use Compose
 
-50.
+50.https://secretmenus.com/ Shows Secret Items In Menus And How To Get Them
+
+51.
 
