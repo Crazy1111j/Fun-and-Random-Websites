@@ -157,5 +157,7 @@ My Top Favorite Tools
 
 81.https://downdetector.com/ Shows If A Certain Comapny Network Is Down
 
-82.
+82.https://www.calorieking.com/us/en/ Shows Calories And details Of every food
+
+83.
 
