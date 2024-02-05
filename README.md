@@ -115,5 +115,7 @@ My Top Favorite Tools
 
 57.https://www.thewikigame.com/ Try To Get From One Wikapedia Page To The Next
 
-58.
+58.https://hemingwayapp.com/ Says How Good Your Essay Is And How To Make It Better And Even Gives A Grade
+
+59.
 
