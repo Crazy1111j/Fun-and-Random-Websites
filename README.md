@@ -63,5 +63,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 31.https://fakedetail.com/ Can Generate Fake Messages And Emails
 
-32.
+32.https://snapdrop.net/# Send Message or file to everyone on your network
+
+33.
 
