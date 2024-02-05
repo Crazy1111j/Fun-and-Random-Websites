@@ -67,5 +67,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 33.https://webecomewhatwebehold.github.io/ Cool Game That Represennts Modern Society
 
-34.
+34.https://www.krea.ai/home Tons Of Different AI Tools
+
+35
 
