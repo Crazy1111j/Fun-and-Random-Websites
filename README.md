@@ -53,5 +53,7 @@ My Top Favorite Tools From DDOS Attack To OSINT Tools
 
 26.https://sur.ly/i/snokido.com/ Tons of fun games
 
-27.
+27.https://www.soundtrap.com/studio Can Make Music Projects
+
+28.
 
