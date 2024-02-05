@@ -75,5 +75,7 @@ My Top Favorite Tools
 
 37.https://10web.io/ Build An Entire Website For Free
 
-38.
+38.https://goblin.tools/ Can break down tasks with Ai to do them faster
+
+39.
 
