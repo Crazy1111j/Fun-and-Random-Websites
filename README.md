@@ -25,10 +25,6 @@ My Top Favorite Tools
 
 12.https://www.soundtrap.com/studio Can Make Music Projects
 
-13.https://www.webnode.com/ Lets you create your own website for free
-
-14.https://sigmaskibiditoilet1.cms.webnode.page/ Has All These Tools But in A cool website
-
 15.https://www.familywatchdog.us/ Shows All Sex Offenders In Your Area
 
 16.https://fakedetail.com/ Can Generate Fake Messages And Emails
