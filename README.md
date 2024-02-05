@@ -59,8 +59,6 @@ My Top Favorite Tools
 
 31.https://my00stv.com/#mo5hzbLHd6E Watch Random Shows And Ads On A 2000s Tv
 
-32.https://boredhumans.com/https://boredhumans.com/ Has 100 AI Tools
-
 33.https://copilot.microsoft.com/ Lets you use Chat-GPT-4 Without Signing In
 
 34.https://makereal.tldraw.com/ Make A Fun Game Or App By Just Drawing *Virtually*:REQUIRES MONEY AND OPENAI ACOUNT
