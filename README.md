@@ -165,5 +165,9 @@ My Top Favorite Tools
 
 85.https://www.autodraw.com/ Turn Your Drawings Into Menaingful Doodles
 
-86.
+86.https://www.instructables.com/ Shows How To build Anything
+
+87.https://tosdr.org/ Shows how bad terms of service are
+
+88.
 
