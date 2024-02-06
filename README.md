@@ -251,4 +251,6 @@ My Top Favorite Tools
 
 128.https://www.prankdial.com/ Lets you prank someone with a prerecorded message and listen to it
 
-129.
+129.https://ncase.me/trust/ Shows the prisoners dilemma 
+
+130.
