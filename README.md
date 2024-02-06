@@ -243,4 +243,6 @@ My Top Favorite Tools
 
 124.https://littlealchemy.com/ Lets you combine elements to create new ones
 
-125.
+125.https://prankhotline.com/pickprank Lets you let 2 numbers call eachother
+
+126.
