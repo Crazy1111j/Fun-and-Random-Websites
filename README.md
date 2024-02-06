@@ -177,7 +177,7 @@ My Top Favorite Tools
 
 91.https://answerthepublic.com/ Shows what people have been searching up
 
-92.https://custom-cursor.com/ You Can make your cursor custom
+92.There was once a website here
 
 93.https://www.opensourcealternative.to/ Gives open source alternatives to anything
 
