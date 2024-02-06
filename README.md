@@ -182,3 +182,7 @@ My Top Favorite Tools
 93.https://www.opensourcealternative.to/ Gives open source alternatives to anything
 
 94.https://asoftmurmur.com/ Lets you make your own background noise
+
+95.https://www.ocearch.org/tracker/ Tracks All The Sharks In Your Area
+
+96.
