@@ -207,4 +207,6 @@ My Top Favorite Tools
 
 106.https://forgotify.com/ Shows songs that never got a listen and lets you listen to them
 
-107.
+107.https://www.hotspot3d.com/ Lets you compare different phones
+
+108.
