@@ -169,5 +169,16 @@ My Top Favorite Tools
 
 87.https://tosdr.org/ Shows how bad terms of service are
 
-88.
+88.https://www.truthdig.com/ Shows The Truth In Politics
 
+89.https://www.coolthings.com/ Shows Random Cool Things In the world
+
+90.https://backgroundchecks.org/justdeleteme/ Shows How to delete yourself of any website
+
+91.https://answerthepublic.com/ Shows what people have been searching up
+
+92.https://custom-cursor.com/ You Can make your cursor custom
+
+93.https://www.opensourcealternative.to/ Gives open source alternatives to anything
+
+94.https://asoftmurmur.com/ Lets you make your own background noise
