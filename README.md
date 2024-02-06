@@ -191,4 +191,10 @@ My Top Favorite Tools
 
 98.https://thisismywebsitenow.com/fast-tap/ Shows how fast you can tap in 10 seconds
 
-99.
+99.https://lifehacker.com/ Lets you improve your life in any way possible
+
+100.https://www.atlasobscura.com/ Shows cool places and unique places you can go to
+
+101.https://sketch.io/sketchpad/
+
+102.
