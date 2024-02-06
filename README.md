@@ -229,4 +229,6 @@ My Top Favorite Tools
 
 117.https://explore.org/livecams/cats Shows live cameras of cats
 
-118.
+118.https://cursoreffects.com/ Gives Random effects for your cursor
+
+119.
