@@ -217,4 +217,8 @@ My Top Favorite Tools
 
 111.https://longdogechallenge.com/ Lets you collect wows from doges
 
-112.
+112.https://www.calculator.net/love-calculator.html Shows the chance of one person loving another person
+
+113.https://messagebomber.com/ Can send secret messages for pranks
+
+114.
