@@ -185,4 +185,8 @@ My Top Favorite Tools
 
 95.https://www.ocearch.org/tracker/ Tracks All The Sharks In Your Area
 
-96.
+96.http://boilthefrog.playlistmachinery.com/ Put Your 2 favorite artist and it will show you the best songs
+
+97.https://musiclab.chromeexperiments.com/ Make Songa and tons of other things with music
+
+98.
