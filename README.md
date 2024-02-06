@@ -200,3 +200,5 @@ My Top Favorite Tools
 102.https://poe.com/ Good Ai but you need to sign in with your phone
 
 103.https://www.pexels.com/ Finds free pictures in the internet
+
+104.https://www.toiletswipe.com/ Lets you swipe toilet paper in the fastest time possible
