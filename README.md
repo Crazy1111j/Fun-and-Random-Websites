@@ -105,8 +105,6 @@ My Top Favorite Tools
 
 55.https://www.piskelapp.com/ Create Your Own Pixel Art For Free Without Signing in or paying
 
-56.https://corrupt-a-file.net/ Corrupt A File To Get More Time On A Assignment
-
 57.https://www.thewikigame.com/ Try To Get From One Wikapedia Page To The Next
 
 58.https://hemingwayapp.com/ Says How Good Your Essay Is And How To Make It Better And Even Gives A Grade
