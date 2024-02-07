@@ -247,8 +247,6 @@ My Top Favorite Tools
 
 126.https://makemydrivefun.com/ Shows all the cool location you'll pass by if your on a road trip
 
-127.https://slowroads.io/ Lets you drive on a road
-
 128.https://www.prankdial.com/ Lets you prank someone with a prerecorded message and listen to it
 
 129.https://ncase.me/trust/ Shows the prisoners dilemma 
