@@ -265,4 +265,6 @@ My Top Favorite Tools
 
 139.https://procatinator.com/ Shows a cat video with a well known song
 
-140.
+140.http://www.clicktoremove.com/ Lets you remove the website
+
+141.
