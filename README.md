@@ -257,8 +257,6 @@ My Top Favorite Tools
 
 131.https://superbad.com Weird liminal website
 
-132.http://www.staggeringbeauty.com/ Shows vivid screen if you shake it enough
-
 133.https://isitchristmas.com/ Very Usefull Website
 
 134.https://hmpg.net/ If you reached this point you deserve this pag
