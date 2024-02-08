@@ -295,5 +295,7 @@ My Top Favorite Tools
 
 155.https://www.marketbeat.com/ Shows News About The Stock Market
 
-156.
+156.https://www.tradingview.com/ Shows The Stock Market And All Its Indicators
+
+157.
 
