@@ -291,5 +291,7 @@ My Top Favorite Tools
 
 153.https://app.suno.ai/ Lets you create your own song with ai
 
-154.
+154.https://www.capitoltrades.com/ Shows what stocks politicians buy
+
+155.
 
