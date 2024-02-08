@@ -271,5 +271,7 @@ My Top Favorite Tools
 
 143.https://www.google-dorking.com/ Lets you google dork
 
-144.
+144.https://www.malavida.com/ Lets you download 3rd party apps through your phone:ONLY ON PHONE
+
+145.
 
