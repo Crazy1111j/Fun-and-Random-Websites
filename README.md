@@ -269,3 +269,7 @@ My Top Favorite Tools
 
 142.https://playcode.io/new Allows for code to be played
 
+143.https://www.google-dorking.com/ Lets you google dork
+
+144.
+
