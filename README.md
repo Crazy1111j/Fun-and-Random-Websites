@@ -297,5 +297,7 @@ My Top Favorite Tools
 
 156.https://www.tradingview.com/ Shows The Stock Market And All Its Indicators
 
-157.
+157.https://app.fing.com/ If You Know How To Use It It Can Cause Chaos
+
+158.
 
