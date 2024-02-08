@@ -273,5 +273,7 @@ My Top Favorite Tools
 
 144.https://www.malavida.com/ Lets you download 3rd party apps through your phone:ONLY ON PHONE
 
-145.
+145.https://www.futuretools.io/ Shows you the ai tools you want based on filters
+
+146.
 
