@@ -307,5 +307,7 @@ My Top Favorite Tools
 
 161.https://www.shodan.io/ One of the best search engines
 
-162.
+162.https://urlscan.io/ Shows lots of things about the url
+
+163.
 
