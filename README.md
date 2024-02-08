@@ -293,5 +293,7 @@ My Top Favorite Tools
 
 154.https://www.capitoltrades.com/ Shows what stocks politicians buy
 
-155.
+155.https://www.marketbeat.com/ Shows News About The Stock Market
+
+156.
 
