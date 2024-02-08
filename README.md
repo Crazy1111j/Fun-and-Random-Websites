@@ -289,5 +289,7 @@ My Top Favorite Tools
 
 152.https://app.meshy.ai/discover Lets you create 3D models
 
-153.
+153.https://app.suno.ai/ Lets you create your own song with ai
+
+154.
 
