@@ -198,7 +198,7 @@ My Top Favorite Tools
 102.https://poe.com/ Good Ai but you need to sign in with your phone
 
 103.https://www.pexels.com/ Finds free pictures in the internet
-
+https://github.com/Lucksi/Mr.Holmes
 104.https://www.toiletswipe.com/ Lets you swipe toilet paper in the fastest time possible
 
 105.https://29a.ch/ Tons of fun tools
@@ -321,5 +321,7 @@ My Top Favorite Tools
 
 168.https://github.com/cipher387/API-s-for-OSINT?tab=readme-ov-file Shows public API's for OSINT:PC
 
-169.
+169.https://github.com/Lucksi/Mr.Holmes Favorite Online OSINT Tool:PC
+
+170.
 
