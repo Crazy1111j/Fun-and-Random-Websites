@@ -315,7 +315,7 @@ My Top Favorite Tools
 
 165.https://www.seatguru.com/ lets you find good plane deals
 
-166.https://github.com/sinwindie/OSINT A tool of every attack surface of every OSINT Tool
+166.https://github.com/sinwindie/OSINT A tool of every attack surface of every OSINT Tool:PC
 
-167.
+167.https://github.com/HowToFind-bot/osint-tools Shows tools on how to get info on anything:PC
 
