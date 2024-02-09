@@ -223,9 +223,9 @@ My Top Favorite Tools
 
 115.https://wikileaks.org/ Shows leaks of the U.S Government 
 
-116.https://steamdb.info/calculator/ Shows how much your steam account is worth
+116.https://steamdb.info/calculator/ Shows how much your steam account is worth: ONLY PHONE/PC
 
-117.https://explore.org/livecams/cats Shows live cameras of cats
+117.https://explore.org/livecams/cats Shows live cameras of cats: ONLY PHONE/PC
 
 118.https://cursoreffects.com/ Gives Random effects for your cursor
 
