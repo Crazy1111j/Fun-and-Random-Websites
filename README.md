@@ -319,3 +319,7 @@ My Top Favorite Tools
 
 167.https://github.com/HowToFind-bot/osint-tools Shows tools on how to get info on anything:PC
 
+168.https://github.com/cipher387/API-s-for-OSINT?tab=readme-ov-file Shows public API's for OSINT:PC
+
+169.
+
