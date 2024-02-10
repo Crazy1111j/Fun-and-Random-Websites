@@ -316,7 +316,7 @@ https://github.com/Lucksi/Mr.Holmes
 165.https://www.seatguru.com/ lets you find good plane deals
 
 166.https://github.com/sinwindie/OSINT A tool of every attack surface of every OSINT Tool:PC
-
+https://sequencer.henryfellerhoff.com/
 167.https://github.com/HowToFind-bot/osint-tools Shows tools on how to get info on anything:PC
 
 168.https://github.com/cipher387/API-s-for-OSINT?tab=readme-ov-file Shows public API's for OSINT:PC
@@ -337,5 +337,7 @@ https://github.com/Lucksi/Mr.Holmes
 
 176.https://sequencer.henryfellerhoff.com/ lets you sequence random music
 
-177.
+177.https://pudding.cool/games/where/ Alternative to geoguessr
+
+178.
 
