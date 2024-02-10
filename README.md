@@ -357,5 +357,7 @@ https://sequencer.henryfellerhoff.com/
 
 186.https://www.cantmakeit.life/ Can generate exuses for you
 
-187.
+187.https://www.submarinecablemap.com/ Shows every subarine cable in the world
+
+188.
 
