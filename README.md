@@ -353,5 +353,9 @@ https://sequencer.henryfellerhoff.com/
 
 184.https://e4494s.neocities.org/ Tons of generators
 
-185.
+185.https://www.secrettechnology.com/siberiahtml/ Infinite zoom on picture
+
+186.https://www.cantmakeit.life/ Can generate exuses for you
+
+187.
 
