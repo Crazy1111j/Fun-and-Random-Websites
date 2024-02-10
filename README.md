@@ -331,7 +331,7 @@ https://github.com/Lucksi/Mr.Holmes
 
 173.http://www.koehnline.com/newgifs/ballb.html Gives you a lobotomy
 
-174.https://www.madsci.org a random quote every time you reload the page
+174.https://www.madsci.org/cgi-bin/lynn/jardin/SCG a random quote every time you reload the page
 
 175.
 
