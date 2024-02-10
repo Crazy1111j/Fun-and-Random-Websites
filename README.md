@@ -359,5 +359,9 @@ https://sequencer.henryfellerhoff.com/
 
 187.https://www.submarinecablemap.com/ Shows every subarine cable in the world
 
-188.
+188.https://animatedengines.com/ Shows almost every engine and how it works
+
+189.https://www.termsandconditions.game/ Puzzle games with terms and conditions
+
+190.
 
