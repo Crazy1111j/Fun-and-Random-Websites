@@ -435,4 +435,6 @@ https://sequencer.henryfellerhoff.com/
 
 225.https://visualping.io/ Lets you monitor website changes
 
-226.
+226.https://youtu.be/tj4LT3hr07s?si=3NFTzBdsA9Fp67Zt Best video ever
+
+227.
