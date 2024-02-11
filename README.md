@@ -430,3 +430,7 @@ https://sequencer.henryfellerhoff.com/
 222.https://rotatingsandwiches.com/ Lots of random rotating sandwitches
 
 223.http://www.insecam.org/ Biggest directory of cameras
+
+224.https://temp-mail.org/en/ Gives you a temporary mail for 10 minutes:PHONE/PC
+
+225.
