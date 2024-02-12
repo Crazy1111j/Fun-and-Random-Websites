@@ -441,7 +441,7 @@ https://sequencer.henryfellerhoff.com/
 
 228.https://bodyvisualizer.com/ lets you visualize the body
 
-229.https://oskarstalberg.com/Townscaper/ Build your own website
+229.https://oskarstalberg.com/Townscaper/ Build your own island
 
 230.https://www.shipmap.org/ Lets you look at transportation globally in 2012
 
