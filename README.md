@@ -469,4 +469,6 @@ https://sequencer.henryfellerhoff.com/
 
 242.https://www.photopea.com/ Free alternative to photoshop
 
-243.
+243.https://www.altium.com/altium-designer/ Lets you design electronics
+
+244.
