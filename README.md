@@ -459,4 +459,6 @@ https://sequencer.henryfellerhoff.com/
 
 237.http://151.80.37.64/ Buy hacks
 
-238.
+238.https://gchq.github.io/CyberChef/ Make your own hack
+
+239.
