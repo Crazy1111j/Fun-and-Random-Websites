@@ -457,7 +457,7 @@ https://sequencer.henryfellerhoff.com/
 
 236.https://replit.com/ Code projects
 
-237.http://151.80.37.64/ Buy hacks
+237.0day.today Buy hacks
 
 238.https://gchq.github.io/CyberChef/ Make your own hack
 
