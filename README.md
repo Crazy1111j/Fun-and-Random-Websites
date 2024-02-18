@@ -1,6 +1,8 @@
 # Favorite-Unblocked-Tools
 My Top Favorite Tools 
 
+-1.https://www.logotech.com/technology/usb-flash-drives.html?gad_source=1&gclid=CjwKCAiA8sauBhB3EiwAruTRJvHK3W4TqKJG6tGtjs-5aWksssrERUCixevPMTqTATVe_2BPVc0zihoC0zYQAvD_BwE Js Incase:LAST RESORT
+
 1.https://search.carrot2.org/#/search/web/OSINT/pie-chart One of the best Tools for finding hacking info
 
 2.https://www.waldo.fyi/ A OSINT Ai Tool To Make Projects
